@@ -1,0 +1,110 @@
+[
+  {
+    "month": "Jan",
+    "year": 2025,
+    "revenue": 47230,
+    "pageViews": 9842,
+    "shares": 312,
+    "clicks": 1876,
+    "orders": 187
+  },
+  {
+    "month": "Feb",
+    "year": 2025,
+    "revenue": 43610,
+    "pageViews": 10156,
+    "shares": 287,
+    "clicks": 1724,
+    "orders": 163
+  },
+  {
+    "month": "Mar",
+    "year": 2025,
+    "revenue": 55480,
+    "pageViews": 11203,
+    "shares": 498,
+    "clicks": 2143,
+    "orders": 219
+  },
+  {
+    "month": "Apr",
+    "year": 2025,
+    "revenue": 59120,
+    "pageViews": 12087,
+    "shares": 543,
+    "clicks": 2387,
+    "orders": 246
+  },
+  {
+    "month": "May",
+    "year": 2025,
+    "revenue": 62340,
+    "pageViews": 12956,
+    "shares": 521,
+    "clicks": 2562,
+    "orders": 271
+  },
+  {
+    "month": "Jun",
+    "year": 2025,
+    "revenue": 54780,
+    "pageViews": 13421,
+    "shares": 367,
+    "clicks": 2298,
+    "orders": 238
+  },
+  {
+    "month": "Jul",
+    "year": 2025,
+    "revenue": 51690,
+    "pageViews": 13867,
+    "shares": 342,
+    "clicks": 2187,
+    "orders": 214
+  },
+  {
+    "month": "Aug",
+    "year": 2025,
+    "revenue": 57320,
+    "pageViews": 14532,
+    "shares": 389,
+    "clicks": 2456,
+    "orders": 251
+  },
+  {
+    "month": "Sep",
+    "year": 2025,
+    "revenue": 64150,
+    "pageViews": 14988,
+    "shares": 419,
+    "clicks": 2634,
+    "orders": 278
+  },
+  {
+    "month": "Oct",
+    "year": 2025,
+    "revenue": 69870,
+    "pageViews": 15643,
+    "shares": 445,
+    "clicks": 2891,
+    "orders": 312
+  },
+  {
+    "month": "Nov",
+    "year": 2025,
+    "revenue": 78920,
+    "pageViews": 17234,
+    "shares": 513,
+    "clicks": 3287,
+    "orders": 376
+  },
+  {
+    "month": "Dec",
+    "year": 2025,
+    "revenue": 73410,
+    "pageViews": 16123,
+    "shares": 476,
+    "clicks": 2943,
+    "orders": 334
+  }
+]
