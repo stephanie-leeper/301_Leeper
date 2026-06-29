@@ -45,9 +45,9 @@
           </v-col>
           <v-col cols="12" sm="6" lg="3">
             <MetricCard
-              label="Page Views"
-              :value="summary.pageViews.value"
-              :prev="summary.pageViews.prev"
+              label="Visitors"
+              :value="summary.visitors.value"
+              :prev="summary.visitors.prev"
               format="number"
               icon="mdi-eye-outline"
               icon-color="#42A5F5"
@@ -56,13 +56,13 @@
           </v-col>
           <v-col cols="12" sm="6" lg="3">
             <MetricCard
-              label="Clicks"
-              :value="summary.clicks.value"
-              :prev="summary.clicks.prev"
-              format="number"
-              icon="mdi-cursor-default-click-outline"
+              label="Conversions"
+              :value="summary.conversions.value"
+              :prev="summary.conversions.prev"
+              format="percent"
+              icon="mdi-swap-vertical-bold"
               icon-color="#AB47BC"
-              :subtitle="isAllMonths ? 'Monthly average' : ''"
+              :subtitle="isAllMonths ? 'Yearly conversion rate' : ''"
             />
           </v-col>
           <v-col cols="12" sm="6" lg="3">

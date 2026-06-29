@@ -30,7 +30,7 @@ const props = defineProps<{
   label: string
   value: number
   prev: number | null
-  format: 'currency' | 'number'
+  format: 'currency' | 'number' | 'percent'
   icon: string
   iconColor?: string
   subtitle?: string
@@ -39,6 +39,9 @@ const props = defineProps<{
 const formattedValue = computed(() => {
   if (props.format === 'currency') {
     return '$' + props.value.toLocaleString('en-US')
+  }
+  if (props.format === 'percent') {
+    return props.value.toFixed(1) + '%'
   }
   return props.value.toLocaleString('en-US')
 })
